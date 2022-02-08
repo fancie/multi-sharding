@@ -33,3 +33,18 @@
         return tableRuleConfiguration;
     }
 ```
+其它的请下载代码自行查阅
+
+演示：
+------
+
+插入数据，2个库（4个表）都写入了数据
+
+http://localhost:8080/save
+
+查询，能正常查到结果
+
+http://localhost:8080/getone
+
+--------
+fancie 2022-02 杭州
